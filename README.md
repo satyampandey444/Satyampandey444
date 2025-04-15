@@ -69,7 +69,7 @@
 <h2 align="center">🧩 Portfolio & Resume</h2>
 <p align="center">
   🔗 <a href="https://satyampandey444.github.io/My_Portfolio/index.html" target="_blank"><strong>Check Out My Portfolio</strong></a> <br>
-  📄 <a href="#" target="_blank"><strong>My Resume (Upload link here)</strong></a>
+  📄 <a href="#" target="_blank"><strong>My Resume (https://drive.google.com/file/d/1DhF3DuC2wYuuTIGjFHXkY2g5GxkyozdL/view?usp=drivesdk)</strong></a>
 </p>
 
 ---
