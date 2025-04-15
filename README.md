@@ -51,9 +51,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyampandey444&show_icons=true&theme=radical" alt="Satyam's GitHub stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyampandey444&theme=radical" alt="Satyam's GitHub streak" />
