@@ -33,8 +33,6 @@
 <!-- Top Languages -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnarayandwivedi&show_icons=true&locale=en&layout=compact" alt="satyampandey" /></p>
 
-<!-- GitHub Stats -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=amarnarayandwivedi&show_icons=true&locale=en" alt="satyampandey" /></p>
 
 <!-- Streak Stats -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnarayandwivedi&" alt="satyampandey" /></p>
