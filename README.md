@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-- 🔭 I’m currently working on [Python Concept](https://github.com/AmarNarayanDwivedi/Complete-Python-Concepts-With-project)
-
 - 🌱 I’m currently learning **AI|ML**
 
 - 🤝 I’m looking **Internship|Job**
@@ -22,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satyam-pandey-66449b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/home?originalsubdomain=in" height="30" width="40" /></a>
 <a href="https://www.instagram.com/satyampandey_444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@satyampandey_444" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amardwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amardwivedi/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/satyampandey_444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/satyampandey_444/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
