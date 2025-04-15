@@ -12,16 +12,16 @@
 
 - 🤝 I’m looking **Internship|Job**
 
-- 👨‍💻 My Portfolio: [Click](https://amarnarayandwivedi.github.io/My-Portfolio/)
+- 👨‍💻 My Portfolio: [Click](https://satyampandey444.github.io/My_Portfolio/index.html)
 
 - 📫 Email: **satyampandey5505@gmail.com**
 
-- 📄My Resume: [Click Here](https://drive.google.com/file/d/1lW5SEdD5gCXz690fLd0FqOVGw78ua98T/view?usp=sharing)
+- 📄My Resume: [Click Here]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/home?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/home?originalsubdomain=in" height="30" width="40" /></a>
-<a href="https://instagram.com/@amardwivedi83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@amardwivedi83" height="30" width="40" /></a>
+<a href="https://www.instagram.com/satyampandey_444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@satyampandey_444" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/amardwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amardwivedi/" height="30" width="40" /></a>
 </p>
 
@@ -31,10 +31,10 @@
 
 <br>
 <!-- Top Languages -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnarayandwivedi&show_icons=true&locale=en&layout=compact" alt="amarnarayandwivedi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnarayandwivedi&show_icons=true&locale=en&layout=compact" alt="satyampandey" /></p>
 
 <!-- GitHub Stats -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=amarnarayandwivedi&show_icons=true&locale=en" alt="amarnarayandwivedi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amarnarayandwivedi&show_icons=true&locale=en" alt="satyampandey" /></p>
 
 <!-- Streak Stats -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnarayandwivedi&" alt="amarnarayandwivedi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnarayandwivedi&" alt="satyampandey" /></p>
