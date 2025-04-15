@@ -30,8 +30,7 @@
 <!-- GitHub Stats - Dark Neon Theme -->
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyampandey444&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20&custom_title=Satyam's%20Code%20Arena" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyampandey444&theme=tokyonight&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyampandey444&theme=radical" alt="Satyam's GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampandey444&layout=compact&theme=tokyonight&langs_count=10&border_radius=20" width="50%" />
